@@ -17,7 +17,7 @@ export const useApi = ({ method, params }) => {
             "content-type": "application/json",
             "x-ref": "http://localhost:9009",
             "X-Simple-Auth-App-Id":
-              "28_c3VwZXJzZWNyZXRteXdoZWVsc2NvZGluZ3Rlc3RzY3JldDhuMjdxdGc5ODdxM3R5",
+              "1_4ufl98675y8088ko4k80wow4soo0g8cog8kwsssoo4k4ggc84k",
           },
           body: JSON.stringify({
             jsonrpc: "2.0",
