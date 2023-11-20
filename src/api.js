@@ -1,6 +1,6 @@
-import { useState, useEffect } from "react";
+import { useEffect, useState } from "react";
 
-const API_URL = "https://php-api.mywheels.dev/api";
+const API_URL = "https://php-api.mywheels.dev/api/";
 
 export const useApi = ({ method, params }) => {
   const [isLoading, setIsLoading] = useState(false);
