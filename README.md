@@ -5,6 +5,9 @@
 - Install the dependencies: `yarn install`
 - Run the development server: `yarn dev`
 - Execute the tests: `yarn test`
+- Execute the linter: `yarn run lint`
+- Execute the linter with autofix: `yarn run lint:fix`
+- Execute the type checks: `yarn run typescript`
 
 ## Assignment
 
